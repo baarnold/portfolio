@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Character's Profile</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="css/modern-business.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <!-- Navigation -->
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">&lt;Blackdawn&gt;</a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.php">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="information.php">Information</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="history.php">History</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="rules.php">Rules</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.php">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Page Content -->
+        <div class="container">
+
+            <!-- Page Heading/Breadcrumbs -->
+            <h1 class="mt-4 mb-3">Character Name
+                <small>Rank</small>
+            </h1>
+
+            <div class="row">
+                
+                <!-- Card -->
+                <div class="col-lg-6 mb-4">
+                    <div class="card h-100 text-center">
+                        <img class="card-img-top" src="http://placehold.it/750x450" alt="">
+                        <div class="card-body">
+                            <div class="col mb-4">
+                                <div class="">
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Title:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Overflow Example Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nulla eu feugiat scelerisque. Curabitur vitae nulla ac risus viverra viverra a ut magna. Maecenas viverra elit erat, nec molestie quam posuere vitae.</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Nickname:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Placeholder Text</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Age:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Placeholder Text</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Race:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Placeholder Text</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Eyes:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Placeholder Text</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Height:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Placeholder Text</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Weight:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Placeholder Text</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Home:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Placeholder Text</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-3" align="left">
+                                            <h6 class="mk-2">Birthplace:</h6>
+                                        </div>
+                                        <div class="col-lg-9" align="left">
+                                            <p>Overflow Example Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nulla eu feugiat scelerisque. Curabitur vitae nulla ac risus viverra viverra a ut magna. Maecenas viverra elit erat, nec molestie quam posuere vitae.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Content Column -->
+                <div class="col-lg-6 mb-4">
+
+                    <div>
+                        <h2 class="mk-4">Physical Appearance</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nulla eu feugiat scelerisque. Curabitur vitae nulla ac risus viverra viverra a ut magna. Maecenas viverra elit erat, nec molestie quam posuere vitae. Vivamus faucibus efficitur pulvinar. Duis laoreet varius risus, eget semper ligula venenatis ac. Nunc vitae laoreet mauris. Maecenas vel efficitur lectus. Duis libero leo, laoreet sed ligula nec, venenatis elementum elit. Sed semper dolor sit amet eros dapibus scelerisque. Pellentesque dignissim aliquam massa sit amet fermentum. Suspendisse auctor nulla dui, quis vulputate magna maximus quis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc hendrerit augue nec nunc tempor, vestibulum malesuada felis scelerisque.</p>
+                    </div>
+                    <div>
+                        <h2 class="mk-4">Character History</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nulla eu feugiat scelerisque. Curabitur vitae nulla ac risus viverra viverra a ut magna. Maecenas viverra elit erat, nec molestie quam posuere vitae. Vivamus faucibus efficitur pulvinar. Duis laoreet varius risus, eget semper ligula venenatis ac. Nunc vitae laoreet mauris. Maecenas vel efficitur lectus. Duis libero leo, laoreet sed ligula nec, venenatis elementum elit. Sed semper dolor sit amet eros dapibus scelerisque. Pellentesque dignissim aliquam massa sit amet fermentum. Suspendisse auctor nulla dui, quis vulputate magna maximus quis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc hendrerit augue nec nunc tempor, vestibulum malesuada felis scelerisque.</p>
+                    </div>
+                    </div>
+            </div>
+        </div>
+        <!-- Bootstrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    </body>
+
+</html>
