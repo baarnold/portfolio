@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+		<?php include('includes/head.html'); ?>
+    
+	</head>
+
+    <body>
+
+        <?php include('includes/navbar-top.html'); ?>
+
+        <!-- Page Content -->
+        <div class="container">
+
+            <!-- Page Heading/Breadcrumbs -->
+            <h1 class="mt-4 mb-3">Samantha Jane Skorpion
+                <small>Member</small>
+            </h1>
+			
+			<ol class="breadcrumb">
+				<li class="breadcrumb-item">
+					<a href="index.php">Home</a>
+				</li>
+				<li class="breadcrumb-item active">Profile</li>
+			</ol>
+
+            <div class="row">
+				<!-- Card column -->
+                <div class="col-lg-6 mb-4">
+					<!-- Card: Removes vertical stretching of card column to match desc/history column -->
+					<div>
+						<div class="card h-100 text-center">
+							<img class="card-img-top" src="img/Samantha.png" alt="Samantha Skorpion Profile Picture">
+							<div class="card-body">
+								<div class="col mb-4">
+									<div class="">
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Title:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>Ward</p>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Nickname:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>Sam, Sammy</p>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Age:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>17</p>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Race:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>Lordaeronian Human (Undead)</p>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Eyes:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>Blood Red (Glowing)</p>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Height:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>5'3 (160.02 cm)</p>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Weight:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>Thin</p>
+											</div>
+										</div>
+											<div class="row">
+												<div class="col-lg-3" align="left">
+													<h6 class="mk-2">Family:</h6>
+												</div>
+												<div class="col-lg-9" align="left">
+													<p>Link Maxim Skorpion (father, Undead), Syllaria Janeth Dawnshard (mother, deceased),
+													Kaelvea Marie Novashard (Aunt, Unknown)</p>
+												</div>
+											</div>
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Home:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>Jade Forest, Pandaria</p>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-lg-3" align="left">
+												<h6 class="mk-2">Birthplace:</h6>
+											</div>
+											<div class="col-lg-9" align="left">
+												<p>Silvermoon City, Kingdom of Quel'Thalas</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+                
+            <!-- Content Column -->
+            <div class="col-lg-6 mb-4">
+
+                <div>
+                    <h2 class="mk-4">Physical Appearance</h2>
+                    <p>Inspite of her small statue, Samantha stands proud at her five-foot-three-inch height.  Through aid of dark healing magics, Samantha
+					manages to keep her skin rather clear of blemishes and scars, even through her Undeath, though this unfortunately leaves her skin a 
+					ghostly pale color that is quite thin in some places.  Her extremely light skin, however, is contrasted by her naturally dark lips, and 
+					long black hair that frames her face well when it is not tied back into a ponytail for convenience.  Shining through the dark, illuminating 
+					her ghostly feature are a set of glowing red orbs, emitting their blood red luminescence.  When facing combat or orders for training, 
+					Samantha dawns a tight leather uniform in all black, almost impossible to see in darker locales, her hands covered with gloves bearing 
+					a skeletal bone pattern, and a revolver strapped to her thigh, with plenty of room for other forms on weaponry to be tied to her for ease 
+					of access, namely blades.  When out and about, however, she prefers a far more elegant attire of a simple black dress, dress shoes, and 
+					pale white leggings to hide her skin.</p>
+                </div>
+                <div>
+                    <h2 class="mk-4">Character History</h2>
+                    <p>Undeath is a curse and a nightmare, and Samatha's life has not been too far from a waking one.  Watching her mother die before her own 
+					eyes by the hand of her recently Scourged father at the mere age of nine, before the blade was turned on herself shortly thereafter, she was 
+					denied the peace of death, instead forced to bear the curse that claimed her father, alongside her own mother.  Years of torment under the 
+					Scourge would have to be endured, only calmed by the maddening whispers of the Old Gods that had sought to make her an agent of their 
+					destruction, though in time.  With her freedom gained, and her mother lost once more, after the Battle for Light's Hope, Samantha would never 
+					find a true home, bouncing from continent to continent, faction to faction, family to family, desperately searching for peace in her cursed 
+					existence as she saw and committed countless horrors should she occasionally succumb to the influence of the Void.  After many years of 
+					searching, she had finally found comfort within the Blackdawn, even being offered a position of apprentice to Alysdaire Blackdawn himself. 
+					Freedom from her Void curse would be found at last, though at a price-- her youthful form had to be shed for that of a close friend, whom gave 
+					her life in the process of saving Samantha an eternity of cold agony. Now she trains, fighting alongside her friends and new family in an 
+					attempt to find her true place in Azeroth.</p>
+                </div>
+                </div>
+            </div>
+        </div>
+		
+		<?php include('includes/footer.html');?>
+		
+        <!-- Bootstrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    </body>
+
+</html>
