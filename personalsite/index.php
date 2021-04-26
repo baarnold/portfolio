@@ -79,15 +79,15 @@ if (isset($_POST['formSubmit'])) {
   <link href="dependencies/css/slider1.css" rel="stylesheet">
   <link href="dependencies/css/slider2.css" rel="stylesheet">
   <link href="dependencies/css/slider3.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Serif">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Boogaloo">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Economica:700,400italic">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Serif">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Boogaloo">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Economica:700,400italic">
   <!-- end: CSS -->
 
   <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
-  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
 
@@ -581,12 +581,12 @@ if (isset($_POST['formSubmit'])) {
         
         <div class="span4 portfolio-item website html5 css3 responsive live">
           <div class="picture">
-            <a href="http://blackdawn-rp.com/" target="_blank">
+            <a href="https://blackdawn.evuidev.com/" target="_blank">
               <img src="dependencies/img/BlackdawnRPexample.png" alt="Blackdawn Roleplay Guild Website Sample Image"/>
               <div class="image-overlay-link"></div>
             </a>
             <div class="item-description alt">
-              <h5><a href="http://blackdawn-rp.com/">Blackdawn RP Guild Website</a></h5>
+              <h5><a href="https://blackdawn.evuidev.com/">Blackdawn RP Guild Website</a></h5>
               <p>A website jointly developed with Kerrie Low, this website is designed to help organize the World of 
               Warcraft guild Blackdawn from the Wyrmrest Accord (US) Server.  The site includes various images taken by, 
               or created by, the guild members, and includes an ever-growing back-end that will support user-profiles, 
@@ -702,11 +702,11 @@ if (isset($_POST['formSubmit'])) {
           <div class="span6">
 
             <!-- starts: Google Maps
-            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
             <div id="googlemaps">
               <div id="map" class="google-map google-map-full"></div>
             </div>
-            <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+            <script src="https://maps.google.com/maps/api/js?sensor=true"></script>
             <script src="dependencies/js/jquery.gmap.min.js"></script>
             <script type="text/javascript">
               $('#map').gMap({
@@ -777,12 +777,12 @@ if (isset($_POST['formSubmit'])) {
       <footer>
 
           <div id="copyright">
-              essentia &copy; 2013 creativeLabs. <a href="http://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> Designed by BootstrapMaster in Poland <img src="img/poland.png" alt="Poland" style="margin-top:-4px">
+              essentia &copy; 2013 creativeLabs. <a href="https://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> Designed by BootstrapMaster in Poland <img src="img/poland.png" alt="Poland" style="margin-top:-4px">
           </div>
           <div id="social">
-              <a href="http://facebook.com/BootstrapMaster" rel="tooltip" title="Facebook" class="facebook">Facebook</a>
-              <a href="http://facebook.com/BootstrapMaster" rel="tooltip" title="Twitter" class="twitter">Twitter</a>
-              <a href="http://BootstrapMaster.com/feed/" rel="tooltip" title="RSS" class="rss">RSS</a>
+              <a href="https://facebook.com/BootstrapMaster" rel="tooltip" title="Facebook" class="facebook">Facebook</a>
+              <a href="https://facebook.com/BootstrapMaster" rel="tooltip" title="Twitter" class="twitter">Twitter</a>
+              <a href="https://BootstrapMaster.com/feed/" rel="tooltip" title="RSS" class="rss">RSS</a>
               <a href="#" rel="tooltip" title="Github" class="github">Github</a>
               <a href="#" rel="tooltip" title="LinkedIn" class="linkedin">LinkedIn</a>
               <a href="#" rel="tooltip" title="Pintrest" class="pintrest">Pintrest</a>
@@ -795,7 +795,7 @@ if (isset($_POST['formSubmit'])) {
 
   <!-- start: Java Script -->
   <!-- Placed at the end of the document so the pages load faster -->
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script type="text/javascript" src="dependencies/js/isotope.js"></script>
   <script type="text/javascript" src="dependencies/js/jquery.imagesloaded.js"></script>
   <script type="text/javascript" src="dependencies/js/bootstrap.min.js"></script>
